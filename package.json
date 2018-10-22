@@ -1,9 +1,10 @@
 {
-  "homepage": "http://alanmcclenaghan.com/react/stateful-components-and-lifecycle-methods/",
+  "homepage": "http://alanmcclenaghan.com/react/react-component-patterns/",
   "name": "scoreboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "prop-types": "^15.6.2",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.5"
